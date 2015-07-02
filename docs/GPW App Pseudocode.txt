@@ -1,0 +1,105 @@
+Psuedocode Design Document for GPWapp
+
+Navigation
+	Main Page
+		Campaign Selection
+		Highlights - MOTD
+		Text
+		External Link
+	Campaign Page
+		Header
+			Acts
+			Main Content
+				Introduction
+				Rules
+					Character Generation
+					Sourcebooks
+					House rules
+				Maps
+			Sidebar
+				Links
+				Campaign Details
+	Journal Catalog
+		Header
+			Acts
+			Journals
+			Game Date
+		Body
+			Portrait
+			Journal
+			<repeat>
+		Top Sidebar
+			Navigation
+		Sidebar 1
+			Portrait
+			Name
+			Class, Level
+			Exp
+			<repeat>
+		Sidebar 2
+			Map
+			Calendar
+			Location
+			<repeat>
+		Sidebar 3
+			Links
+			<repeat>
+		
+	NPC Catalog
+		Body
+			Column
+				Portrait
+				Description
+				<repeat>
+		Sidebar
+			Navigation
+	
+		
+	Character Catalog
+		Body
+			Tile
+				Portrait
+				Name
+				Player Name
+				Class, Level
+			<repeat>
+		Sidebar
+			Navigation
+	
+	Character Page
+		Column 1
+			Tabbed
+				Image
+				Backstory
+		Column 2
+			Statistics
+			Details
+			Characteristics
+			<expand>
+		Sidebar
+			Navigation
+	
+	Location Catalog
+		Body
+			Tile
+				Text Overlay Image
+				Link out
+				<repeat>
+	Location Page
+		Body
+			Hero
+			Tabbed
+				Map
+				Buildings
+				Deity
+				<repeat>
+		Column
+			Map
+			Details
+			
+			
+
+	
+
+
+	
