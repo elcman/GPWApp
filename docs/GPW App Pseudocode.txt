@@ -1,5 +1,34 @@
 Psuedocode Design Document for GPWapp
 
+Database (NoSQL Format)
+	Site
+		User Details
+		Permissions
+			GM
+			Player
+			Administrator
+	
+	Campaign
+		Users
+			GM
+			Players
+		Details
+		Characters
+		
+	Locations
+		Campaign ID
+		NPCs
+		Maps
+		Details
+		
+	Sessions
+		Journals
+		Attendance
+		Experience
+		Location IDs
+			Details
+
+
 Navigation
 	Main Page
 		Campaign Selection

@@ -9,10 +9,19 @@
  * 
  */
 
-$m = new MongoClient(); // connect
-$collection = $db->selectCollection("characters");
+$db = "gpwapp";
+$collectionname = "character";
 
-print $collection;
+$m = new MongoClient(); // connect
+
+print $m->$db ."<br/>";
+print $m->$db->$collectionname ."<br/>";
+
+$collection = $m->$db->$collectionname;
+
+$cursor = $collection->findOne(array('_id' => 1));
+
+print_r($cursor);
 
 ?>
 
