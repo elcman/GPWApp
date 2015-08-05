@@ -126,7 +126,22 @@ Navigation
 			Map
 			Details
 			
-			
+First tasks:
+
+Process for entering a journal:
+
+Create a character, player < character.
+GM creates a session or increments a game day. Date, time, experience.
+Empty chronicle page available to players.
+Click on new entry, or edit button, to reveal a WYSIWYG editor.
+Submit/Cancel button.
+Push into database, attach character info, date/time of entry.
+
+Optional Chronological rework. (Can be arranged at will according to players?) Specific permission.
+
+GM gets access to drop down of NPCs and PCs to fill in for. (Search? Icons? Temporary? Reduce via text search?)			
+
+
 
 	
 
